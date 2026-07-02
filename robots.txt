@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://w1w1cked88.github.io/cgp-hero-v2/sitemap.xml
